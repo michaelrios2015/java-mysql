@@ -14,7 +14,7 @@ public class Database
 	    
     
         static final String JDBC_MYSQL_DRIVER="org.gjt.mm.mysql.Driver";
-	static final String JDBC_MYSQL_URL="jdbc:mysql://triton.towson.edu:5030";
+	static final String JDBC_MYSQL_URL="jdbc:mysql://*************";
 	static final String userName = "mrios3";
 	static final String password="Cosc*8m6r";
 	private static Connection connection=null;
